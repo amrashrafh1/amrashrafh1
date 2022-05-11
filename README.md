@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amr Ashraf</h1>
 <h3 align="center">A passionate Backend developer from Egypt</h3>
 
-- 🔭 I’m currently working on **Ban**
-
 - 👨‍💻 All of my projects are available at [github.com/amrashrafh1](github.com/amrashrafh1)
 
-- 💬 Ask me about **VueJs**
+- 💬 Ask me about **Laravel**
 
 - 📫 How to reach me **ac.ronaldo2090@gmail.com**
 
